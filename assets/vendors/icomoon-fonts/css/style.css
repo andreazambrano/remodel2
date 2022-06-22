@@ -1,0 +1,141 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?8kq8ph');
+  src:  url('../fonts/icomoon.eot?8kq8ph') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?8kq8ph') format('truetype'),
+    url('../fonts/icomoon.woff?8kq8ph') format('woff'),
+    url('../fonts/icomoon.svg?8kq8ph') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow:before {
+  content: "\e900";
+}
+.icon-left-arrow:before {
+  content: "\e901";
+}
+.icon-up-arrow1:before {
+  content: "\e902";
+}
+.icon-down-arrow:before {
+  content: "\e903";
+}
+.icon-blueprint:before {
+  content: "\e904";
+}
+.icon-clock:before {
+  content: "\e905";
+}
+.icon-clock-1:before {
+  content: "\e906";
+}
+.icon-contact-phone:before {
+  content: "\e907";
+}
+.icon-draw-check-mark:before {
+  content: "\e908";
+}
+.icon-email:before {
+  content: "\e909";
+}
+.icon-house-plan-scale:before {
+  content: "\e90a";
+}
+.icon-link:before {
+  content: "\e90b";
+}
+.icon-man-silhouette-touching-ceiling:before {
+  content: "\e90c";
+}
+.icon-map-pin:before {
+  content: "\e90d";
+}
+.icon-phone-call:before {
+  content: "\e90e";
+}
+.icon-phone-call-1:before {
+  content: "\e90f";
+}
+.icon-play:before {
+  content: "\e910";
+}
+.icon-pxin:before {
+  content: "\e911";
+}
+.icon-quotation:before {
+  content: "\e912";
+}
+.icon-roof:before {
+  content: "\e913";
+}
+.icon-roof-1:before {
+  content: "\e914";
+}
+.icon-roof-2:before {
+  content: "\e915";
+}
+.icon-roofing:before {
+  content: "\e916";
+}
+.icon-search:before {
+  content: "\e917";
+}
+.icon-share:before {
+  content: "\e918";
+}
+.icon-solar-panel:before {
+  content: "\e919";
+}
+.icon-solar-panel-1:before {
+  content: "\e91a";
+}
+.icon-solar-panels-couple-in-sunlight:before {
+  content: "\e91b";
+}
+.icon-solar-roof-clean-energy-solar-panel-alternative-energy:before {
+  content: "\e91c";
+}
+.icon-tag:before {
+  content: "\e91d";
+}
+.icon-up-arrow:before {
+  content: "\e91e";
+}
+.icon-down-arrow1:before {
+  content: "\e91f";
+}
+.icon-right-arrow:before {
+  content: "\e920";
+}
+.icon-left-arrow1:before {
+  content: "\e921";
+}
+.icon-up-arrow-1:before {
+  content: "\e922";
+}
+.icon-down-arrow-1:before {
+  content: "\e923";
+}
+.icon-user:before {
+  content: "\e924";
+}
+.icon-wood-board:before {
+  content: "\e925";
+}
